@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 lol again
+=======
+lol
+>>>>>>> parent of a42a167... borrandooooooo!
